@@ -7,9 +7,9 @@
 * I presented my final project (TCC) at the Campus Party technology fair and at the COTUCA science fair.
 ---
 ### Infos GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaMagalh&show_icons=true&theme=radical)<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnmcnmglhs&show_icons=true&theme=radical)<div>
 <a href="https://github.com/MarianaMagalh">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaMagalh&show=&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnmcnmglhs&show=&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
