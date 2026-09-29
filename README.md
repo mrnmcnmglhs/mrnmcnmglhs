@@ -19,7 +19,6 @@ Building clean, responsive interfaces with **Next.js** and **React**, connected 
 - 📚 Technical degree in **Systems Development** at ETEC Hortolândia and SENAI Roberto Mange
 - 🏆 Presented my final project (TCC) at **Campus Party** and the **COTUCA Science Fair**
 - 🎮 Background in desktop applications and Unity game development
-- 🤝 Open to freelance **UI/UX** and **Frontend** projects
 
 ---
 
